@@ -19,7 +19,8 @@ This project explores:
 ## 📦 Quick Start
 
 ```bash
-git clone https://github.com/yourname/voaip.git
+git clone https://github.com/yugicao/voaip.git
 cd voaip
 pip install -r requirements.txt
+
 
